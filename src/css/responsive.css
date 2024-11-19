@@ -1,0 +1,98 @@
+@media (max-width: 499px) {
+    .menu{
+        width: 240px;
+        background-color: rgb(218, 24, 24);
+    }
+    .menu_lista_item{
+        padding: 1px;
+        margin: 6px auto;
+        align-items: center;
+        text-align: center;
+    }
+    .inicial{
+        width: 240px;
+    }
+    .inicial_titulo img{
+        width: 170px;
+        height: 170px;
+        align-items: center;
+    }
+    .paragrafo-inicial{
+        margin-left: -25px;
+    }
+    .bio_titulo{
+        width: 240px;
+        margin-left: 5px;
+        font-size: 25px;
+    }
+    h1{
+        font-size: 50px;
+        margin-left: 1px;
+    }
+
+    p{
+        width: 240px;
+    }
+    .bio_container{
+        margin-left: -10px;
+    }
+
+    .skills{
+        width: 240px;
+        margin: 0;
+    }
+    .skills_box{
+        width: 95px;
+        height: 85px;
+        margin: 0 auto;
+        margin-left: 1px;
+    }
+    .hobbies{
+        width: 240px;
+        padding: 20px;
+        gap: 15px;
+    }
+    .hobbies_box{
+        width: 100px;
+        height: 90px;
+        margin: 0 auto;
+        padding: 15px;
+    }
+    .hobbies_titulo{
+        margin: 0 auto;
+        font-size: 30px;
+        font-weight: 800;
+        
+    }
+    .formacao_titulo{
+        margin-left: -165px;
+        font-size: 28px;
+    }
+    .formacao_curso{
+        margin-left: -19px;   
+    }
+     .titulo-experiencia{
+        width: 240px;
+        margin-left: -12px;
+        font-size: 30px;
+    }
+    .experiencia_container{
+        width: 240px;
+    }
+
+    .network{
+        width: 250px;
+    }
+    h3{
+        font-size: 25px;
+    }
+    .rodape{
+        width: 240px;
+    }
+    .rodape p{
+        font-size: 15px;
+    }
+
+    
+     
+}
