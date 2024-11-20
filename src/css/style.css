@@ -78,7 +78,7 @@ span{
     padding: 20px;
     align-items: center;
     margin-left: -70px;
-    background-color: white;
+    background-color: rgb(205, 202, 202);
 }
 
 .skills_titulo{
@@ -128,7 +128,7 @@ span{
     padding: 20px;
     align-items: stretch;
     justify-content: center;
-    background-color: white;
+    background-color: rgb(205, 202, 202);
 }
 
 .hobbies_box{

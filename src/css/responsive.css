@@ -1,7 +1,6 @@
 @media (max-width: 499px) {
     .menu{
         width: 240px;
-        background-color: rgb(218, 24, 24);
     }
     .menu_lista_item{
         padding: 1px;
