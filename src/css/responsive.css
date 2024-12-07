@@ -1,20 +1,28 @@
-@media (max-width: 499px) {
+@media (max-width: 350px) {
+    .header .hamburguer{
+        
+    }
+
     .menu{
         width: 240px;
     }
+
     .menu_lista_item{
         padding: 1px;
         margin: 6px auto;
         align-items: center;
         text-align: center;
     }
+    
     .inicial{
         width: 240px;
     }
-    .inicial_titulo img{
-        width: 170px;
-        height: 170px;
+
+    .inicial_titulo .patty img{
+        width: 100px;
+        height: 100px;
         align-items: center;
+        
     }
     .paragrafo-inicial{
         margin-left: -25px;
